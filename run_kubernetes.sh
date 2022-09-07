@@ -4,7 +4,7 @@
 
 # Step 1:
 # This is your Docker ID/path
-dockerpath=josephakayesi/mlapp
+dockerpath=vikkybass1/mlapp
 
 # Step 2
 # Run the Docker Hub container with kubernetes

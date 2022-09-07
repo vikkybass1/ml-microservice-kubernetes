@@ -5,12 +5,12 @@
 
 # Step 1:
 # Create dockerpath
-dockerpath=josephakayesi/mlapp
+dockerpath=vikkybass1/mlapp
 
 # Step 2:  
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
-docker login --username=josephakayesi
+docker login --username=vikkybass1
 
 # Step 3:
 # Push image to a docker repository
